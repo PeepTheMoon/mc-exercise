@@ -1,4 +1,1 @@
-Sentence from Bob and Carol
-
-Another confusing part of this assignment.
-
+Sentence from Bob and Carol- ham sammy! two ham sammies!
